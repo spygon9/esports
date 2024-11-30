@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esports.Shared", "esports.S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esports.Web", "esports.Web\esports.Web.csproj", "{2AD80CAA-6117-40CA-83C2-FA3D433A025D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "esports.Api", "esports.Api\esports.Api.csproj", "{63B54BF5-9C26-4841-9A23-2D43DC9E36D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2AD80CAA-6117-40CA-83C2-FA3D433A025D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AD80CAA-6117-40CA-83C2-FA3D433A025D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AD80CAA-6117-40CA-83C2-FA3D433A025D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B54BF5-9C26-4841-9A23-2D43DC9E36D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B54BF5-9C26-4841-9A23-2D43DC9E36D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B54BF5-9C26-4841-9A23-2D43DC9E36D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B54BF5-9C26-4841-9A23-2D43DC9E36D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
